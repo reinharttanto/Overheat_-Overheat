@@ -17,5 +17,6 @@ App runs in background recording the temperatures and load of the computer until
 If the temperature and load doesnt match up with previously recorded data then an alert is given to the user that the computer is experiencing abnormal temperatures.
 
 Any Other Information:
-
-
+Video Link - https://drive.google.com/file/d/1TcdQ3JY_BoRN63zK2EglajTYPoDhJ8_V/view?usp=sharing
+Overheat.7z is the exe/executable file.
+Overheat source contains the source files for the program.
